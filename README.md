@@ -26,8 +26,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/royanosh" target="blank"><img align="center" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" alt="royanosh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/umesh-kumawat-221444192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umesh-kumawat-221444192" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17794161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17794161" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/umesh-kumawat-221444192" target="blank"><img align="center" src="https://freepngimg.com/save/14268-linkedin-png-picture/512x512" alt="umesh-kumawat-221444192" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/17794161" target="blank"><img align="center" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.png" alt="17794161" height="30" width="120" /></a>
 <a href="https://codesandbox.com/royanosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="royanosh" height="30" width="40" /></a>
 <a href="https://instagram.com/umes.hkumawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umes.hkumawat" height="30" width="40" /></a>
 <a href="https://medium.com/@royanosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@royanosh" height="30" width="40" /></a>
