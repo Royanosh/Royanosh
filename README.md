@@ -8,7 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/royanosh" target="blank"><img src="https://img.shields.io/twitter/follow/royanosh?logo=twitter&style=for-the-badge" alt="royanosh" /></a> </p>
 
-- 🔭 I’m currently working on [FirstPost Clone](https://github.com/Royanosh/firstpost)
+<p align="left"> <a href="https://www.linkedin.com/in/umesh-kumawat-221444192/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn" /></a> </p>
+
+- 🔭 I’m currently working on [Zappos Clone](https://github.com/Royanosh/zappos)
 
 - 🌱 I’m currently learning **React**
 
@@ -22,17 +24,12 @@
 <br>
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=royanosh" alt="royanosh" /></a> </p>
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/royanosh" target="blank"><img align="center" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" alt="royanosh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/umesh-kumawat-221444192" target="blank"><img align="center" src="https://freepngimg.com/save/14268-linkedin-png-picture/512x512" alt="umesh-kumawat-221444192" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/17794161" target="blank"><img align="center" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.png" alt="17794161" height="30" width="120" /></a>
-<a href="https://codesandbox.com/royanosh" target="blank">CodeSandBox</a>
-<a href="https://instagram.com/umes.hkumawat" target="blank"><img align="center" src="https://freepngimg.com/download/instagram/68447-made-instagram-logo-photography-heath-facebook-female.png" alt="umes.hkumawat" height="30" width="40" /></a>
 <a href="https://medium.com/@royanosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@royanosh" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/royanosh777" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="royanosh777" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/royanosh777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="royanosh777" height="30" width="40" /></a>
