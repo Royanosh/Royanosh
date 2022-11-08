@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/umesh-kumawat-221444192/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn" /></a> </p>
 
-- 🔭 I’m currently working on [Zappos Clone](https://github.com/Royanosh/zappos)
+- 🔭 I’m currently working on [DisneyPlus Clone](https://github.com/Royanosh/disneyplus)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Backend🔥🔥🔥**
 
 - 💬 Ask me about **Full Stack Developement**
 
 - 📫 How to reach me **royanosh777@gmail.com**
 
-- ⚡ Fun fact **Elephants can’t jump**
+- ⚡ Fun fact **Elephants can’t jump😁😁😁**
 
 <br>
 <br>
