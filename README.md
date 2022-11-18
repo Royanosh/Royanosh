@@ -1,12 +1,14 @@
 <img src ="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" width="2000px">
 <h1 align="center">Hi 👋, I'm Umesh Kumawat</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A Passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=royanosh&label=Profile%20views&color=0e75b6&style=flat" alt="royanosh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/royanosh" target="blank"><img src="https://img.shields.io/twitter/follow/royanosh?logo=twitter&style=for-the-badge" alt="royanosh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/royanosh" target="_blank"><img src="https://img.shields.io/twitter/follow/royanosh?logo=twitter&style=for-the-badge" alt="royanosh" /></a> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/umesh-kumawat-221444192/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/umesh-kumawat-221444192/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn" /></a> </p>
+
+- 🔗 My Portfolio [Link](https://umesh-kumawat.netlify.app)
 
 - 🔭 I’m currently working on [DisneyPlus Clone](https://github.com/Royanosh/disneyplus)
 
