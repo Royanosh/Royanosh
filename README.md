@@ -21,9 +21,9 @@
 - ⚡ Fun fact **Elephants can’t jump😁😁😁**
 
 * Recent Projects
-   * Zappos Clone [Github](https://github.com/Royanosh/zappos) [Deployed Link](zappos-official.netlify.app)
-   * Firstpost Clone [Github](https://github.com/Royanosh/firstpost) [Deployed Link](firstpost-clone.netlify.app)
-   * Milaap Clone [Github](https://github.com/gauravv8090/Milaap_clone) [Deployed Link](https://milaapclone.netlify.app)
+   * Zappos Clone [Github](https://github.com/Royanosh/zappos)         | [Deployed Link](zappos-official.netlify.app)
+   * Firstpost Clone [Github](https://github.com/Royanosh/firstpost) |  [Deployed Link](firstpost-clone.netlify.app)
+   * Milaap Clone [Github](https://github.com/gauravv8090/Milaap_clone)       |  [Deployed Link](https://milaapclone.netlify.app)
 <br>
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=royanosh" alt="royanosh" /></a> </p>
