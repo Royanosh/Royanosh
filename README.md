@@ -22,8 +22,42 @@
 
 * Recent Projects
    * Zappos Clone [Github](https://github.com/Royanosh/zappos)         | [Deployed Link](zappos-official.netlify.app)
+        * This project is clone of e-commerce website in US, we developed this website using ReactJS, Redux, etc.
+        * Features 
+           * Whole website responsive. 
+           * features like register, login, searching, sorting all filters. 
+           * Whole flow of e-commerce working from searching to checkout. 
+        * Tech-Stack 
+           * HTML | CSS | JavaScript | Git | React | Redux | ChakraUI | Bootstrap 
+        * Area of responsibility 
+           * Developed the product page with all filter and sorting. 
+           * Implemented cart page functionality.
+           * Handled git repository.
+
    * Firstpost Clone [Github](https://github.com/Royanosh/firstpost) |  [Deployed Link](firstpost-clone.netlify.app)
+        * Firstpost is an Indian conservative online news and media website. 
+        * Features 
+           * Whole website responsive. 
+           * Login Signup functionality working properly.  
+           * User can able to read news in different regions.
+        * Tech-Stack 
+           * HTML | CSS | JavaScript | Git | Json-Server | Bootstrap 
+        * Area of responsibility 
+           * Lead a team of 4 members to design a web clone named "Firstpost".  
+           * Implemented complete website functionality.
+           * Handled git repository.
    * Milaap Clone [Github](https://github.com/gauravv8090/Milaap_clone)       |  [Deployed Link](https://milaapclone.netlify.app)
+        * Milaap, Free Crowdfunding for India. Raise funds online for medical emergencies and social causes. 
+        * Features 
+           * Login Signup functionality.  
+           * User can able to raise funds by using website fund raiser feature.  
+           * User can able to donate.
+        * Tech-Stack 
+           * HTML | CSS | JavaScript | Git | Json-Server | Bootstrap 
+        * Area of responsibility 
+           * Lead a team of 5 members to design a web clone named "Milaap".  
+           * A user can sign-up, Login and raise & donate money. 
+           * Landing Page.
 <br>
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=royanosh" alt="royanosh" /></a> </p>
