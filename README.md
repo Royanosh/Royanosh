@@ -1,6 +1,6 @@
 <img src ="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" width="2000px">
 <h1 align="center">Hi 👋, I'm Umesh Kumawat</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<h3 align="center">An enthusiastic Full Stack Web Developer with a strong set of technical as well as non-technical skills.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=royanosh&label=Profile%20views&color=0e75b6&style=flat" alt="royanosh" /> </p>
 
@@ -19,6 +19,8 @@
 - 📫 How to reach me **royanosh777@gmail.com**
 
 - ⚡ Fun fact **Elephants can’t jump😁😁😁**
+
+- 💖 I love designing websites and coding.
 
 * Recent Projects
    * Zappos Clone [Github](https://github.com/Royanosh/zappos)         | [Deployed Link](zappos-official.netlify.app)
