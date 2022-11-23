@@ -50,8 +50,8 @@
         * Milaap, Free Crowdfunding for India. Raise funds online for medical emergencies and social causes. 
         * Features 
            * Login Signup functionality.  
-           * User can able to raise funds by using website fund raiser feature.  
-           * User can able to donate.
+           * User can raise funds by using website fundraiser feature.  
+           * User can donate.
         * Tech-Stack 
            * HTML | CSS | JavaScript | Git  
         * Area of responsibility 
