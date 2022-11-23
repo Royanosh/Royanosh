@@ -53,7 +53,7 @@
            * User can able to raise funds by using website fund raiser feature.  
            * User can able to donate.
         * Tech-Stack 
-           * HTML | CSS | JavaScript | Git | Json-Server | Bootstrap 
+           * HTML | CSS | JavaScript | Git  
         * Area of responsibility 
            * Lead a team of 5 members to design a web clone named "Milaap".  
            * A user can sign-up, Login and raise & donate money. 
