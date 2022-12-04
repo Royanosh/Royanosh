@@ -23,7 +23,7 @@
 - 💖 I love designing websites and coding.
 
 * Recent Projects
-   * Zappos Clone [Github](https://github.com/Royanosh/zappos)         | [Deployed Link](zappos-official.netlify.app)
+   * Zappos Clone [Github](https://github.com/Royanosh/zappos)         | [Deployed Link](https://zappos-official.netlify.app)
         * This project is clone of e-commerce website in US, we developed this website using ReactJS, Redux, etc.
         * Features 
            * Whole website responsive. 
@@ -36,7 +36,7 @@
            * Implemented cart page functionality.
            * Handled git repository.
 
-   * Firstpost Clone [Github](https://github.com/Royanosh/firstpost) |  [Deployed Link](firstpost-clone.netlify.app)
+   * Firstpost Clone [Github](https://github.com/Royanosh/firstpost) |  [Deployed Link](https://firstpost-clone.netlify.app)
         * Firstpost is an Indian conservative online news and media website. 
         * Features 
            * Whole website responsive. 
