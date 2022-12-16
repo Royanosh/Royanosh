@@ -1,14 +1,14 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&width=500&lines=Hi!+I'm+Umesh;Full+Stack+Web+Developer;Nice+to+meet+you)](https://git.io/typing-svg)
 <img src ="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" width="2000px">
-<h1 align="center">Hi 👋, I'm Umesh Kumawat</h1>
 <h3 align="center">An enthusiastic Full Stack Web Developer with a strong set of technical as well as non-technical skills.</h3>
+<h3 align="center"> 
+  Visitor count <br>
+  <img src="https://profile-counter.glitch.me/Royanosh/count.svg" />
+</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=royanosh&label=Profile%20views&color=0e75b6&style=flat" alt="royanosh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/royanosh" target="_blank"><img src="https://img.shields.io/twitter/follow/royanosh?logo=twitter&style=for-the-badge" alt="royanosh" /></a> </p>
-
-<p align="left"> <a href="https://www.linkedin.com/in/umesh-kumawat-221444192/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn" /></a> </p>
-
-- 🔗 My Portfolio [Link](https://umesh-kumawat.netlify.app)
+<br>
+<br>
 
 - 🔭 I’m currently working on [DisneyPlus Clone](https://github.com/Royanosh/disneyplus)
 
@@ -16,13 +16,111 @@
 
 - 💬 Ask me about **Full Stack Developement**
 
-- 📫 How to reach me **royanosh777@gmail.com**
-
 - ⚡ Fun fact **Elephants can’t jump😁😁😁**
 
-- 💖 I love designing websites and coding.
+- 📫 My Resume <a href='https://drive.google.com/file/d/1zEH6CAOs6oDx9obgtnGQtFq_27WTr4qH/view' target="_blank">Resume</a>
 
-* Recent Projects
+- 💖 I love designing websites and coding.
+ 
+
+
+<br>
+<br>
+<br>
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_Connect with me ...._** <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
+
+<p>
+<a href="https://www.instagram.com/umes.hkumawat/" target="_blank">
+<img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=f02b9a&style=for-the-badge&logo=instagram&logoColor=white" t=instagram style="margin-bottom: 5px;" />
+ </a>
+<a href="https://www.linkedin.com/in/umesh-kumawat-221444192/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+  <a href="mailto:royanosh777@gmail.com" target="_blank">
+<img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" t=portfolio style="margin-bottom: 5px;" />
+ </a>
+ <a href="https://umesh-kumawat.netlify.app/" target="_blank">
+<img src="https://camo.githubusercontent.com/c873e86c083c071c7fd068a17ab549b763fad7088681d6d831f68b32a4305b3a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f776562736974652d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d41626f75742e6d65266c6f676f436f6c6f723d7768697465" t=portfolio style="margin-bottom: 5px;" />
+ </a>
+ <a href="https://twitter.com/Royanosh" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://leetcode.com/Royanosh/" target="_blank">
+<img src=https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black alt=twitter style="margin-bottom: 5px;" />
+</a>
+</p>
+<hr>
+ <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech Stack..</h4>
+<p >
+ <img src="https://img.shields.io/badge/javascript%20-%23F7DF1.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="prettier" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="json" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" />&nbsp;&nbsp;
+</p>
+<hr>
+<h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My working tools..</h4>
+<p>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?&style=for-the-badge&color=blue&logo=Git&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify"/>&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="postman"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="codesandbox" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="prettier" />&nbsp;&nbsp;
+</p>
+
+<hr>
+
+## 📊 My Github Stats
+
+<br>
+
+<p align="center">
+    <a href="https://github.com/Royanosh/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Royanosh's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Royanosh&theme=material-palenight&border_radius=100&date_format=j%20M%5B%20Y%5D"/>
+    </a>
+</p>
+
+<br/>
+
+<p align="center">
+<a align="center" href="https://github.com/Royanosh/github-readme-stats"><img style="border-radius:40px;display:block;margin-left:auto;margin-right:auto" alt="Royanosh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Royanosh&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117" />
+</a>
+ </p>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/Royanosh/github-readme-stats"><img style="border-radius:40px;display:block;margin-left:auto;margin-right:auto;width:55%"  alt="Royanosh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Royanosh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
+</p>
+   
+<br>
+<p align="center">
+<img alt="Royanosh's Activity Graph" style="border-radius:0px;display:block;margin-left:auto;margin-right:auto;width:70%;" src="https://github-readme-activity-graph.cyclic.app/graph?username=Royanosh&theme=tokyo-night" />
+</p>
+<br>
+
+# Recent Projects
    * Zappos Clone [Github](https://github.com/Royanosh/zappos)         | [Deployed Link](https://zappos-official.netlify.app)
         * This project is clone of e-commerce website in US, we developed this website using ReactJS, Redux, etc.
         * Features 
@@ -61,37 +159,5 @@
            * A user can sign-up, Login and raise & donate money. 
            * Landing Page.
 <br>
-<br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=royanosh" alt="royanosh" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://twitter.com/royanosh" target="blank"><img align="center" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" alt="royanosh" height="30" width="40" /></a><a href="https://linkedin.com/in/umesh-kumawat-221444192" target="blank"><img align="center" src="https://freepngimg.com/save/14268-linkedin-png-picture/512x512" alt="umesh-kumawat-221444192" height="30" width="30" /></a><a href="https://www.codechef.com/users/royanosh777" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="royanosh777" height="30" width="40" /></a><a href="https://medium.com/@royanosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@royanosh" height="30" width="40" /></a><a href="https://www.hackerrank.com/royanosh777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="royanosh777" height="30" width="40" /></a><a href="https://www.leetcode.com/royanosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="royanosh" height="30" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/<royanosh786>/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<royanosh786>/profile" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/nolan/64/javascript.png" alt="javascript" width="40" height="40"/></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Babel_Logo.svg" alt="babel" width="40" height="40"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/chakra-ui.png" alt="chakra ui" width="40" height="40"/></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="material ui" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://www.npmjs.com/package/json-server" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/nolan/64/json.png" alt="git" width="40" height="40"/></a><a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a><a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/nolan/64/express-js.png" alt="express" width="40" height="40"/></a><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency-systems-filled/48/000000/nextjs.png" alt="nextjs" width="40" height="40"/></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a></p>
-
 <br/>
 
-<p align="center">
-    <a href="https://github.com/Royanosh/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Royanosh's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Royanosh&theme=material-palenight&border_radius=100&date_format=j%20M%5B%20Y%5D"/>
-    </a>
-</p>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/Royanosh/github-readme-stats"><img alt="Royanosh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Royanosh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Royanosh/github-readme-stats"><img alt="Royanosh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Royanosh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/Royanosh/github-readme-activity-graph"><img alt="Royanosh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Royanosh&theme=dracula" /></a>
-
-<br/>
-<br/>
