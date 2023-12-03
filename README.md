@@ -9,8 +9,7 @@
 
 <br>
 <br>
-
-- 🔭 I’m currently working on [DisneyPlus Clone](https://github.com/Royanosh/disneyplus)
+<!-- I’m currently working on [DisneyPlus Clone](https://github.com/Royanosh/disneyplus) -->
 
 - 🌱 I’m currently learning **Backend🔥🔥🔥**
 
