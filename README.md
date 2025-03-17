@@ -11,13 +11,11 @@
 <br>
 <!-- I’m currently working on [DisneyPlus Clone](https://github.com/Royanosh/disneyplus) -->
 
-- 🌱 I’m currently learning **Backend🔥🔥🔥**
-
 - 💬 Ask me about **Full Stack Developement**
 
 - ⚡ Fun fact **Elephants can’t jump😁😁😁**
 
-- 📫 My Resume <a href='https://drive.google.com/file/d/1zEH6CAOs6oDx9obgtnGQtFq_27WTr4qH/view' target="_blank">Resume</a>
+- 📫 My Resume <a href='https://drive.google.com/file/d/1Xigy69Jc3x-vUJdzXSC49Vkx4Yp7HjfN/view' target="_blank">Resume</a>
 
 - 💖 I love designing websites and coding.
  
