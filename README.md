@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Elephants can’t jump😁😁😁**
 
-- 📫 My Resume <a href='https://drive.google.com/file/d/1cnhbCgXxM4LLCNclTG1y4ByXQYLfTI1c/view' target="_blank">Resume</a>
+- 📫 My Resume <a href='https://drive.google.com/file/d/11VRZ1DKs_ZWPfzRhlr7rggA5SEb7hgIc/view' target="_blank">Resume</a>
 
 - 💖 I love designing websites and coding.
  
