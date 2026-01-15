@@ -1,160 +1,21 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&width=500&lines=Hi!+I'm+Umesh;Full+Stack+Web+Developer;Nice+to+meet+you)](https://git.io/typing-svg)
-<img src ="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" width="2000px">
-<h3 align="center">An enthusiastic Full Stack Web Developer with a strong set of technical as well as non-technical skills.</h3>
-<h3 align="center"> 
-  Visitor count <br>
-  <img src="https://profile-counter.glitch.me/Royanosh/count.svg" />
-</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<br>
-<br>
-<!-- I’m currently working on [DisneyPlus Clone](https://github.com/Royanosh/disneyplus) -->
-
-- 💬 Ask me about **Full Stack Developement**
-
-- ⚡ Fun fact **Elephants can’t jump😁😁😁**
-
-- 📫 My Resume <a href='https://drive.google.com/file/d/11VRZ1DKs_ZWPfzRhlr7rggA5SEb7hgIc/view' target="_blank">Resume</a>
-
-- 💖 I love designing websites and coding.
- 
+# 💫 About Me:
+I am a results-driven Full-Stack Developer (MERN Stack) with 3+ years of hands-on experience building scalable, high-performance SaaS products in fast-paced startup environments. I specialize in taking ownership of features end-to-end—right from understanding business requirements and designing system architecture to implementing robust backend services and delivering intuitive frontend experiences.<br><br>My core strength lies in developing real-time systems, workflow automation engines, background processing pipelines, and analytics dashboards that handle large-scale data efficiently. I have extensive experience working with Node.js, React, Next.js, MongoDB, Redis, ClickHouse, and modern cloud infrastructure. I enjoy solving complex problems related to performance, scalability, and reliability, especially in systems involving high-volume data imports, event-driven workflows, and asynchronous processing.<br><br>At SwipeOne, I have contributed to building critical platform features such as AI-assisted contact import pipelines, automation workflows, email campaign systems, and analytics dashboards, directly impacting thousands of active users. I am comfortable working with message queues, rate-limiting strategies, multi-region systems, and real-time event tracking, ensuring stability and observability in production environments.<br><br>Beyond technical skills, I am a quick learner and proactive problem-solver who adapts rapidly to new tools and technologies based on business needs. I collaborate closely with product, design, and engineering teams, and I value clean code, reusability, and long-term maintainability. I also actively leverage modern AI tools to improve development speed, code quality, and debugging efficiency.<br><br>I am passionate about building products that scale, automate workflows, and deliver real value to users—while continuously improving myself as an engineer.
 
 
-<br>
-<br>
-<br>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/umes.hkumawat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umesh-kumawat-221444192) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Royanosh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:royanosh777@gmail.com) 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_Connect with me ...._** <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Royanosh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Royanosh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Royanosh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p>
-<a href="https://www.instagram.com/umes.hkumawat/" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=f02b9a&style=for-the-badge&logo=instagram&logoColor=white" t=instagram style="margin-bottom: 5px;" />
- </a>
-<a href="https://www.linkedin.com/in/umesh-kumawat-221444192/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-  <a href="mailto:royanosh777@gmail.com" target="_blank">
-<img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" t=portfolio style="margin-bottom: 5px;" />
- </a>
- <a href="https://umesh-kumawat.netlify.app/" target="_blank">
-<img src="https://camo.githubusercontent.com/c873e86c083c071c7fd068a17ab549b763fad7088681d6d831f68b32a4305b3a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f776562736974652d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d41626f75742e6d65266c6f676f436f6c6f723d7768697465" t=portfolio style="margin-bottom: 5px;" />
- </a>
- <a href="https://twitter.com/Royanosh" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://leetcode.com/Royanosh/" target="_blank">
-<img src=https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black alt=twitter style="margin-bottom: 5px;" />
-</a>
-</p>
-<hr>
- <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech Stack..</h4>
-<p >
- <img src="https://img.shields.io/badge/javascript%20-%23F7DF1.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="prettier" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="json" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" />&nbsp;&nbsp;
-</p>
-<hr>
-<h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My working tools..</h4>
-<p>
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?&style=for-the-badge&color=blue&logo=Git&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify"/>&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="postman"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="codesandbox" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="prettier" />&nbsp;&nbsp;
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<hr>
+---
+[![](https://visitcount.itsvg.in/api?id=Royanosh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 My Github Stats
-
-<br>
-
-<p align="center">
-    <a href="https://github.com/Royanosh/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Royanosh's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Royanosh&theme=material-palenight&border_radius=100&date_format=j%20M%5B%20Y%5D"/>
-    </a>
-</p>
-
-<br/>
-
-<p align="center">
-<a align="center" href="https://github.com/Royanosh/github-readme-stats"><img style="border-radius:40px;display:block;margin-left:auto;margin-right:auto" alt="Royanosh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Royanosh&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117" />
-</a>
- </p>
-
-<br>
-
-<p align="center">
-<a href="https://github.com/Royanosh/github-readme-stats"><img style="border-radius:40px;display:block;margin-left:auto;margin-right:auto;width:55%"  alt="Royanosh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Royanosh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-</p>
-   
-<br>
-<p align="center">
-<img alt="Royanosh's Activity Graph" style="border-radius:0px;display:block;margin-left:auto;margin-right:auto;width:70%;" src="https://github-readme-activity-graph.cyclic.app/graph?username=Royanosh&theme=tokyo-night" />
-</p>
-<br>
-
-# Recent Projects
-   * Zappos Clone [Github](https://github.com/Royanosh/zappos)         | [Deployed Link](https://zappos-official.netlify.app)
-        * This project is clone of e-commerce website in US, we developed this website using ReactJS, Redux, etc.
-        * Features 
-           * Whole website responsive. 
-           * features like register, login, searching, sorting all filters. 
-           * Whole flow of e-commerce working from searching to checkout. 
-        * Tech-Stack 
-           * HTML | CSS | JavaScript | Git | React | Redux | ChakraUI | Bootstrap 
-        * Area of responsibility 
-           * Developed the product page with all filter and sorting. 
-           * Implemented cart page functionality.
-           * Handled git repository.
-
-   * Firstpost Clone [Github](https://github.com/Royanosh/firstpost) |  [Deployed Link](https://firstpost-clone.netlify.app)
-        * Firstpost is an Indian conservative online news and media website. 
-        * Features 
-           * Whole website responsive. 
-           * Login Signup functionality working properly.  
-           * User can able to read news in different regions.
-        * Tech-Stack 
-           * HTML | CSS | JavaScript | Git | Json-Server | Bootstrap 
-        * Area of responsibility 
-           * Lead a team of 4 members to design a web clone named "Firstpost".  
-           * Implemented complete website functionality.
-           * Handled git repository.
-   * Milaap Clone [Github](https://github.com/gauravv8090/Milaap_clone)       |  [Deployed Link](https://milaapclone.netlify.app)
-        * Milaap, Free Crowdfunding for India. Raise funds online for medical emergencies and social causes. 
-        * Features 
-           * Login Signup functionality.  
-           * User can raise funds by using website fundraiser feature.  
-           * User can donate.
-        * Tech-Stack 
-           * HTML | CSS | JavaScript | Git  
-        * Area of responsibility 
-           * Lead a team of 5 members to design a web clone named "Milaap".  
-           * A user can sign-up, Login and raise & donate money. 
-           * Landing Page.
-<br>
-<br/>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
